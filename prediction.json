@@ -9,7 +9,7 @@
 			"prediction": "high",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -22,7 +22,7 @@
 			"prediction": "high",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -35,7 +35,7 @@
 			"prediction": "medium",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -48,7 +48,7 @@
 			"prediction": "low",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -65,7 +65,7 @@
 			"prediction": "low",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -78,7 +78,7 @@
 			"prediction": "medium",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -91,7 +91,7 @@
 			"prediction": "low",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
@@ -104,7 +104,7 @@
 			"prediction": "low",
 			"bucket_thresholds": {"low": "10",
 								"medium": "33",
-								"high": "52"}
+								"high": "52"},
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
 			"best_model": "True"
