@@ -1,0 +1,115 @@
+[
+	{
+		"prediction_date": "2020-06-07",
+		"Rift Valley":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "Rift Valley",
+			"metric": "RP",
+			"prediction": "high",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		},
+		"All Kenya":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "All Kenya",
+			"metric": "RP",
+			"prediction": "high",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		},
+		"Coastal":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "Coastal",
+			"metric": "RP",
+			"prediction": "medium",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		},
+		"Central":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "Central",
+			"metric": "RP",
+			"prediction": "low",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		}
+		
+	},
+	{
+		"prediction_date": "2020-06-14",
+		"Rift Valley":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "Rift Valley",
+			"metric": "RP",
+			"prediction": "low",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		},
+		"All Kenya":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "All Kenya",
+			"metric": "RP",
+			"prediction": "medium",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		},
+		"Coastal":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "Coastal",
+			"metric": "RP",
+			"prediction": "low",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		},
+		"Central":{
+			"prediction_look_ahead": "90",
+			"prediction_history": "30",
+			"location": "Central",
+			"metric": "RP",
+			"prediction": "low",
+			"bucket_thresholds": {"low": "10",
+								"medium": "33",
+								"high": "52"}
+			"prediction_probability": "0.96",
+			"model_accuracy": "55",
+			"best_model": True
+		}
+		
+	}
+	
+]
