@@ -2,7 +2,7 @@
 	{
 		"prediction_date": "2020-06-07",
 		"RiftValley":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "Rift Valley",
 			"metric": "RP",
@@ -15,7 +15,7 @@
 			"best_model": "True"
 		},
 		"AllKenya":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "All Kenya",
 			"metric": "RP",
@@ -28,7 +28,7 @@
 			"best_model": "True"
 		},
 		"Coastal":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "Coastal",
 			"metric": "RP",
@@ -41,7 +41,7 @@
 			"best_model": "True"
 		},
 		"Central":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "Central",
 			"metric": "RP",
@@ -58,7 +58,7 @@
 	{
 		"prediction_date": "2020-06-14",
 		"RiftValley":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "Rift Valley",
 			"metric": "RP",
@@ -71,7 +71,7 @@
 			"best_model": "True"
 		},
 		"AllKenya":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "All Kenya",
 			"metric": "RP",
@@ -84,7 +84,7 @@
 			"best_model": "True"
 		},
 		"Coastal":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "Coastal",
 			"metric": "RP",
@@ -97,7 +97,7 @@
 			"best_model": "True"
 		},
 		"Central":{
-			"prediction_look_ahead": "90",
+			"prediction_look_ahead": "4",
 			"prediction_history": "30",
 			"location": "Central",
 			"metric": "RP",
