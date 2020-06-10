@@ -12,7 +12,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		},
 		"All Kenya":{
 			"prediction_look_ahead": "90",
@@ -25,7 +25,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		},
 		"Coastal":{
 			"prediction_look_ahead": "90",
@@ -38,7 +38,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		},
 		"Central":{
 			"prediction_look_ahead": "90",
@@ -51,7 +51,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		}
 		
 	},
@@ -68,7 +68,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		},
 		"All Kenya":{
 			"prediction_look_ahead": "90",
@@ -81,7 +81,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		},
 		"Coastal":{
 			"prediction_look_ahead": "90",
@@ -94,7 +94,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		},
 		"Central":{
 			"prediction_look_ahead": "90",
@@ -107,7 +107,7 @@
 								"high": "52"}
 			"prediction_probability": "0.96",
 			"model_accuracy": "55",
-			"best_model": True
+			"best_model": "True"
 		}
 		
 	}
