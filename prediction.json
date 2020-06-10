@@ -1,7 +1,7 @@
 [
 	{
 		"prediction_date": "2020-06-07",
-		"Rift Valley":{
+		"RiftValley":{
 			"prediction_look_ahead": "90",
 			"prediction_history": "30",
 			"location": "Rift Valley",
@@ -14,7 +14,7 @@
 			"model_accuracy": "55",
 			"best_model": "True"
 		},
-		"All Kenya":{
+		"AllKenya":{
 			"prediction_look_ahead": "90",
 			"prediction_history": "30",
 			"location": "All Kenya",
@@ -57,7 +57,7 @@
 	},
 	{
 		"prediction_date": "2020-06-14",
-		"Rift Valley":{
+		"RiftValley":{
 			"prediction_look_ahead": "90",
 			"prediction_history": "30",
 			"location": "Rift Valley",
@@ -70,7 +70,7 @@
 			"model_accuracy": "55",
 			"best_model": "True"
 		},
-		"All Kenya":{
+		"AllKenya":{
 			"prediction_look_ahead": "90",
 			"prediction_history": "30",
 			"location": "All Kenya",
